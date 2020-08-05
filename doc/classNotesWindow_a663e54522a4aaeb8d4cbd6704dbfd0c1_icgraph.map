@@ -1,0 +1,7 @@
+<map id="NotesWindow::fillContent" name="NotesWindow::fillContent">
+<area shape="rect" id="node1" title="Fills NotesWindow::content with NotesWindow::allNotes." alt="" coords="471,81,641,108"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#ae6cd969faca68e9d08f634436796bec8" title="Method to delete note from Notepad." alt="" coords="242,5,421,32"/>
+<area shape="rect" id="node3" href="$classNotesWindow.html#aa1563db137ae02fb569df6cbc6ee1f50" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Select, Import,..." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#a5e5ef04e98d3c5f81da4f4ad8fde6a82" title="Overrides MyWindow::printContent." alt="" coords="240,107,423,133"/>
+<area shape="rect" id="node5" href="$classNotesWindow.html#ae556f14f9357c8d3b6703a8e749ea072" title="Method to choose note." alt="" coords="242,157,421,184"/>
+</map>

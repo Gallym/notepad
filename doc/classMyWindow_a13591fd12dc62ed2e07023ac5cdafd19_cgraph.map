@@ -1,0 +1,4 @@
+<map id="MyWindow::readInput" name="MyWindow::readInput">
+<area shape="rect" id="node1" title="Gets Users input from Options Window." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09" title="Clears Options Window." alt="" coords="203,5,371,32"/>
+</map>

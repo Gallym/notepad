@@ -1,0 +1,7 @@
+<map id="NotesWindow::parseMultiNote" name="NotesWindow::parseMultiNote">
+<area shape="rect" id="node1" title="Method to parse multi&#45;note from XML document and create and add separe notes from it." alt="" coords="969,5,1169,32"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#a59833326fb181d3d213ad71dcbb209a9" title="Method to create Note from XML document." alt="" coords="692,5,921,32"/>
+<area shape="rect" id="node3" href="$classNotesWindow.html#ab5e9191beb86ff86cded2c1d35f20691" title="Method to create Note from filepath." alt="" coords="468,5,644,32"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#a5192fc7533a33b0735ad4064bca1d636" title="Method to import note via filepath." alt="" coords="240,5,420,32"/>
+<area shape="rect" id="node5" href="$classNotesWindow.html#aa1563db137ae02fb569df6cbc6ee1f50" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Select, Import,..." alt="" coords="5,5,192,32"/>
+</map>

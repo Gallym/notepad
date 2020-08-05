@@ -1,0 +1,4 @@
+<map id="MyWindow" name="MyWindow">
+<area shape="rect" id="node1" title="Parent class for all Windows. This class describes main behavior of every Window. Main logic is imple..." alt="" coords="27,351,163,883"/>
+<area shape="rect" id="node2" href="$classContent.html" title="Represents content to be displayed in Window. This class allows Window print out its content properly..." alt="" coords="5,5,184,288"/>
+</map>

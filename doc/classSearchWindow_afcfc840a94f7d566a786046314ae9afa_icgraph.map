@@ -1,0 +1,5 @@
+<map id="SearchWindow::deleteTag" name="SearchWindow::deleteTag">
+<area shape="rect" id="node1" title="Deletes tag from SearchWindow::tags to be search for in all notes." alt="" coords="476,13,651,39"/>
+<area shape="rect" id="node2" href="$classSearchWindow.html#a3d059096a02f1d8c60dd7f4a4e82e908" title="Method implementing search by category or tag." alt="" coords="245,5,428,47"/>
+<area shape="rect" id="node3" href="$classSearchWindow.html#a3d5c592e4605d84e61c9ec0704ce1cd2" title="Implementation of MyWindow::execCurrOpt Executes current chosen option." alt="" coords="5,13,197,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Content::printFirstPage" name="Content::printFirstPage">
+<area shape="rect" id="node1" title="Prints out first page of the Content with highlighted line given as." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="211,5,385,32"/>
+<area shape="rect" id="node3" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="433,5,537,32"/>
+<area shape="rect" id="node4" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="585,5,735,32"/>
+</map>

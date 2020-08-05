@@ -1,0 +1,5 @@
+<map id="NotesWindow::fillContent" name="NotesWindow::fillContent">
+<area shape="rect" id="node1" title="Fills NotesWindow::content with NotesWindow::allNotes." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="239,5,360,32"/>
+<area shape="rect" id="node3" href="$classContent.html#a8a3e484948d1c986fb419f325f188f3f" title="Clears the Content." alt="" coords="224,56,375,83"/>
+</map>

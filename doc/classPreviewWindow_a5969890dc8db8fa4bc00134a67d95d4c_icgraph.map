@@ -1,0 +1,6 @@
+<map id="PreviewWindow::setAndPrintPreviewNote" name="PreviewWindow::setAndPrintPreviewNote">
+<area shape="rect" id="node1" title="Sets given." alt="" coords="467,49,659,90"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#ae6cd969faca68e9d08f634436796bec8" title="Method to delete note from Notepad." alt="" coords="240,5,419,32"/>
+<area shape="rect" id="node3" href="$classNotesWindow.html#aa1563db137ae02fb569df6cbc6ee1f50" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Select, Import,..." alt="" coords="5,56,192,83"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#ae556f14f9357c8d3b6703a8e749ea072" title="Method to choose note." alt="" coords="240,107,419,133"/>
+</map>

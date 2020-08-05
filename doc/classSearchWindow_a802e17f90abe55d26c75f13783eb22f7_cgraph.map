@@ -1,0 +1,5 @@
+<map id="SearchWindow::clearCatOrTag" name="SearchWindow::clearCatOrTag">
+<area shape="rect" id="node1" title="Deletes all categories or tags from SearchWindow::categories or SearchWindow::tags according to." alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#a257b3e3ab85f3ac0f7fcfa9d139a5f21" title="Clears Window." alt="" coords="256,5,379,32"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="427,5,595,32"/>
+</map>

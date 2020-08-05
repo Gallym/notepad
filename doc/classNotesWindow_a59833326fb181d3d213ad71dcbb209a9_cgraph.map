@@ -1,0 +1,7 @@
+<map id="NotesWindow::createNoteFromXml" name="NotesWindow::createNoteFromXml">
+<area shape="rect" id="node1" title="Method to create Note from XML document." alt="" coords="5,56,235,83"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#a44263273ada11eaf02f586e504dadeb4" title=" " alt="" coords="315,5,476,32"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#a2e9b44149679ed9e0b48b945389f4d8f" title="Method to parse multi&#45;note from XML document and create and add separe notes from it." alt="" coords="295,56,495,83"/>
+<area shape="rect" id="node5" href="$classNotesWindow.html#aa47b73d91ef817b9fba9135a41c68ecd" title="Method to parse type of Note from XML document." alt="" coords="283,107,508,133"/>
+<area shape="rect" id="node3" href="$classNote.html#a235b1c33dda1040638ff2f43c1b6aeac" title=" " alt="" coords="556,5,667,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="PriceListNote::addDataToContent" name="PriceListNote::addDataToContent">
+<area shape="rect" id="node1" title="Implementation of AbstractNote::addDataToContent." alt="" coords="5,15,177,56"/>
+<area shape="rect" id="node2" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="404,22,525,49"/>
+<area shape="rect" id="node3" href="$classContent.html#a09236fd980a8af0ca72a56a810774f06" title="Adds new line into Content::Pages, but it&#39;s presented as 2 columns generated from." alt="" coords="231,22,351,49"/>
+<area shape="rect" id="node4" href="$classContent.html#a091d38799790d47de913f1f2bda253eb" title="Adds straight line to create separation within the Content." alt="" coords="225,73,356,99"/>
+</map>

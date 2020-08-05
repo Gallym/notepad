@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['categories_19',['categories',['../classSearchWindow.html#a78739aec210616bcd091ebd70b13c729',1,'SearchWindow']]],
+  ['category_20',['category',['../classAbstractNote.html#a11306b4964d2e73ba8fc84fbd9a20851',1,'AbstractNote']]],
+  ['category_5fmode_21',['CATEGORY_MODE',['../classSearchWindow.html#a92c9793b44d54e9167b2b79f185b670c',1,'SearchWindow']]],
+  ['categoryortagmode_22',['categoryOrTagMode',['../classSearchWindow.html#a3d059096a02f1d8c60dd7f4a4e82e908',1,'SearchWindow']]],
+  ['checklistnote_23',['CheckListNote',['../classCheckListNote.html',1,'CheckListNote'],['../classCheckListNote.html#af72906c2738b558b616ab25504484672',1,'CheckListNote::CheckListNote()']]],
+  ['checklistnote_2ecpp_24',['CheckListNote.cpp',['../CheckListNote_8cpp.html',1,'']]],
+  ['checklistnote_2eh_25',['CheckListNote.h',['../CheckListNote_8h.html',1,'']]],
+  ['clear_26',['clear',['../classContent.html#aeb3251e0e8895e246ad33690f8c9ec49',1,'Content::clear()'],['../classMyWindow.html#a257b3e3ab85f3ac0f7fcfa9d139a5f21',1,'MyWindow::clear()']]],
+  ['clearcatortag_27',['clearCatOrTag',['../classSearchWindow.html#a802e17f90abe55d26c75f13783eb22f7',1,'SearchWindow']]],
+  ['clearcontent_28',['clearContent',['../classContent.html#a8a3e484948d1c986fb419f325f188f3f',1,'Content']]],
+  ['clearoptions_29',['clearOptions',['../classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09',1,'MyWindow']]],
+  ['clearpreview_30',['clearPreview',['../classPreviewWindow.html#af3bd4953fc73783d7c254dbe91c5d823',1,'PreviewWindow']]],
+  ['colorborders_31',['colorBorders',['../classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225',1,'Content::colorBorders()'],['../classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9',1,'MyWindow::colorBorders()']]],
+  ['content_32',['Content',['../classContent.html',1,'Content'],['../classContent.html#af14b7b5ebc756686ecde73dc09b57c56',1,'Content::Content()'],['../classContent.html#a4cc52e7a36f6908fb23d24240fea8abe',1,'Content::Content(WINDOW *window, int height, int width)'],['../classMyWindow.html#a5c8591458bfdcd3f29a776d71588787a',1,'MyWindow::content()']]],
+  ['content_2ecpp_33',['Content.cpp',['../Content_8cpp.html',1,'']]],
+  ['content_2eh_34',['Content.h',['../Content_8h.html',1,'']]],
+  ['createnote_35',['createNote',['../classNotesWindow.html#ab5e9191beb86ff86cded2c1d35f20691',1,'NotesWindow']]],
+  ['createnotefromxml_36',['createNoteFromXml',['../classNotesWindow.html#a59833326fb181d3d213ad71dcbb209a9',1,'NotesWindow']]],
+  ['curropt_37',['currOpt',['../classMyWindow.html#af33ac4638d1f4b1bdccb873d4eae6bc3',1,'MyWindow']]],
+  ['currpage_38',['currPage',['../classContent.html#aab1b79671d5e35c5ec3be3424cf015e9',1,'Content']]],
+  ['currwinid_39',['currWinId',['../classNotepad.html#a13db1a06665539374208b00c96a0d5f5',1,'Notepad']]],
+  ['curses_5finit_40',['curses_init',['../main_8cpp.html#a7c226308e0c9a3138acede284f9cd7fb',1,'main.cpp']]]
+];

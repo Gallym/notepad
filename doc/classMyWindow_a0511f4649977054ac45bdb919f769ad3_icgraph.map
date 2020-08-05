@@ -1,0 +1,7 @@
+<map id="MyWindow::printThisOptions" name="MyWindow::printThisOptions">
+<area shape="rect" id="node1" title="Prints specific options of Window if needed." alt="" coords="501,42,692,69"/>
+<area shape="rect" id="node2" href="$classSearchWindow.html#a3d059096a02f1d8c60dd7f4a4e82e908" title="Method implementing search by category or tag." alt="" coords="261,5,444,47"/>
+<area shape="rect" id="node4" href="$classPreviewWindow.html#a8b4fa6cefb46de2715d84b56fe2d06e4" title="Method to preview of PreviewWindow::previewNote and list over its pages." alt="" coords="252,71,453,98"/>
+<area shape="rect" id="node3" href="$classSearchWindow.html#a3d5c592e4605d84e61c9ec0704ce1cd2" title="Implementation of MyWindow::execCurrOpt Executes current chosen option." alt="" coords="9,13,201,39"/>
+<area shape="rect" id="node5" href="$classPreviewWindow.html#a12a7a154613a5b45e4e485d0999e6624" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Preview, Help)." alt="" coords="5,71,204,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NotesWindow::createNoteFromXml" name="NotesWindow::createNoteFromXml">
+<area shape="rect" id="node1" title="Method to create Note from XML document." alt="" coords="716,56,945,83"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#ab5e9191beb86ff86cded2c1d35f20691" title="Method to create Note from filepath." alt="" coords="480,5,656,32"/>
+<area shape="rect" id="node5" href="$classNotesWindow.html#a2e9b44149679ed9e0b48b945389f4d8f" title="Method to parse multi&#45;note from XML document and create and add separe notes from it." alt="" coords="468,56,668,83"/>
+<area shape="rect" id="node3" href="$classNotesWindow.html#a5192fc7533a33b0735ad4064bca1d636" title="Method to import note via filepath." alt="" coords="240,5,420,32"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#aa1563db137ae02fb569df6cbc6ee1f50" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Select, Import,..." alt="" coords="5,5,192,32"/>
+</map>

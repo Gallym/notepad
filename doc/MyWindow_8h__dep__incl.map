@@ -1,0 +1,13 @@
+<map id="src/windows/MyWindow.h" name="src/windows/MyWindow.h">
+<area shape="rect" id="node1" title=" " alt="" coords="441,5,615,32"/>
+<area shape="rect" id="node2" href="$Notepad_8h.html" title=" " alt="" coords="448,304,552,331"/>
+<area shape="rect" id="node5" href="$SearchWindow_8h.html" title=" " alt="" coords="13,229,209,256"/>
+<area shape="rect" id="node7" href="$NotesWindow_8h.html" title=" " alt="" coords="294,155,485,181"/>
+<area shape="rect" id="node9" href="$PreviewWindow_8h.html" title=" " alt="" coords="427,80,629,107"/>
+<area shape="rect" id="node11" href="$MyWindow_8cpp.html" title=" " alt="" coords="853,80,1040,107"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title=" " alt="" coords="385,379,482,405"/>
+<area shape="rect" id="node4" href="$Notepad_8cpp.html" title=" " alt="" coords="506,379,625,405"/>
+<area shape="rect" id="node6" href="$SearchWindow_8cpp.html" title=" " alt="" coords="5,304,216,331"/>
+<area shape="rect" id="node8" href="$NotesWindow_8cpp.html" title=" " alt="" coords="233,229,437,256"/>
+<area shape="rect" id="node10" href="$PreviewWindow_8cpp.html" title=" " alt="" coords="563,155,779,181"/>
+</map>

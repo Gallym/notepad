@@ -1,0 +1,11 @@
+<map id="NotesWindow::printContent" name="NotesWindow::printContent">
+<area shape="rect" id="node1" title="Overrides MyWindow::printContent." alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node2" href="$classContent.html#a8a3e484948d1c986fb419f325f188f3f" title="Clears the Content." alt="" coords="467,5,617,32"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="237,31,405,57"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#a663e54522a4aaeb8d4cbd6704dbfd0c1" title="Fills NotesWindow::content with NotesWindow::allNotes." alt="" coords="236,81,407,108"/>
+<area shape="rect" id="node6" href="$classContent.html#a89ebb6a130b2aa41480d2faac5cbd05e" title="Prints out first page of the Content with highlighted line given as." alt="" coords="243,132,400,159"/>
+<area shape="rect" id="node5" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="481,81,603,108"/>
+<area shape="rect" id="node7" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="455,132,629,159"/>
+<area shape="rect" id="node8" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="677,132,781,159"/>
+<area shape="rect" id="node9" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="829,132,979,159"/>
+</map>

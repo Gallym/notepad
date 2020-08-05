@@ -1,0 +1,21 @@
+<map id="NotesWindow::selectMode" name="NotesWindow::selectMode">
+<area shape="rect" id="node1" title="Method to choose note." alt="" coords="5,327,184,353"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#a663e54522a4aaeb8d4cbd6704dbfd0c1" title="Fills NotesWindow::content with NotesWindow::allNotes." alt="" coords="253,23,424,49"/>
+<area shape="rect" id="node5" href="$classContent.html#a0f58e2c83f62e29972d0309d8bb7d86d" title=" " alt="" coords="232,428,445,455"/>
+<area shape="rect" id="node6" href="$classContent.html#ad30e0240616103b8ae79e80761b7a531" title=" " alt="" coords="242,479,435,505"/>
+<area shape="rect" id="node7" href="$classContent.html#a2eb1e9f170ef0f44ca507bc1f7aaa98e" title=" " alt="" coords="260,529,417,556"/>
+<area shape="rect" id="node8" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="728,276,903,303"/>
+<area shape="rect" id="node11" href="$classContent.html#a150c8c46ccae70bf2dd35776e7a5b4d4" title="Prints out error message given as." alt="" coords="520,327,649,353"/>
+<area shape="rect" id="node12" href="$classContent.html#a89ebb6a130b2aa41480d2faac5cbd05e" title="Prints out first page of the Content with highlighted line given as." alt="" coords="506,225,663,252"/>
+<area shape="rect" id="node13" href="$classContent.html#ae7ddcc55db4689e9a6ae9a92dd43b966" title="Prints out next page after current of the Content with highlighted line given as." alt="" coords="736,377,895,404"/>
+<area shape="rect" id="node14" href="$classContent.html#a45e62139a42490a60a4a49ab100297d6" title="Prints out previous page before current of the Content with highlighted line given as." alt="" coords="724,200,907,227"/>
+<area shape="rect" id="node15" href="$classPreviewWindow.html#a5969890dc8db8fa4bc00134a67d95d4c" title="Sets given." alt="" coords="243,109,435,150"/>
+<area shape="rect" id="node18" href="$classMyWindow.html#a424f6e631dd19dd76e923981e8aa0666" title="Updates title of window." alt="" coords="259,580,418,607"/>
+<area shape="rect" id="node3" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="755,23,876,49"/>
+<area shape="rect" id="node4" href="$classContent.html#a8a3e484948d1c986fb419f325f188f3f" title="Clears the Content." alt="" coords="509,23,660,49"/>
+<area shape="rect" id="node9" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="955,301,1059,328"/>
+<area shape="rect" id="node10" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="1107,301,1256,328"/>
+<area shape="rect" id="node16" href="$classNote.html#a9fbc751cf668ef603e0ef5d1bd146e90" title="Fills passed @content with data from Note." alt="" coords="526,73,643,100"/>
+<area shape="rect" id="node17" href="$classMyWindow.html#aa79606e78ee7a0ead154009fce249764" title="Removes higlighting of window." alt="" coords="493,124,676,151"/>
+<area shape="rect" id="node19" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="501,580,669,607"/>
+</map>

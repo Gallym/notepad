@@ -1,0 +1,8 @@
+<map id="SearchWindow::addTagsToContent" name="SearchWindow::addTagsToContent">
+<area shape="rect" id="node1" title="Fills content with SearchWindow::tags." alt="" coords="721,71,948,98"/>
+<area shape="rect" id="node2" href="$classSearchWindow.html#a37874829c7d1bf2a8ea91e126ca852b5" title="Method to print result of search." alt="" coords="492,71,673,98"/>
+<area shape="rect" id="node3" href="$classSearchWindow.html#a3d059096a02f1d8c60dd7f4a4e82e908" title="Method implementing search by category or tag." alt="" coords="253,5,436,47"/>
+<area shape="rect" id="node5" href="$classSearchWindow.html#a4adc1d4778e5e1d88023200786dd9f7c" title="Method implementing search by keyword." alt="" coords="245,71,444,98"/>
+<area shape="rect" id="node6" href="$classSearchWindow.html#a4e79a19d2c6876719ba88ca4ad4fae0e" title="Method implementing search by name." alt="" coords="253,122,436,149"/>
+<area shape="rect" id="node4" href="$classSearchWindow.html#a3d5c592e4605d84e61c9ec0704ce1cd2" title="Implementation of MyWindow::execCurrOpt Executes current chosen option." alt="" coords="5,71,197,98"/>
+</map>

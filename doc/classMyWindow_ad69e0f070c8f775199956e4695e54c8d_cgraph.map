@@ -1,0 +1,14 @@
+<map id="MyWindow::activate" name="MyWindow::activate">
+<area shape="rect" id="node1" title="Activates window and implements main functionality of window." alt="" coords="5,157,147,184"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09" title="Clears Options Window." alt="" coords="419,208,587,235"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#af38ede5677c225536668284d6a1a0636" title="Deactivates window: printes first page of MyWindow::content and sets standart color of borders." alt="" coords="202,81,357,108"/>
+<area shape="rect" id="node4" href="$classMyWindow.html#ab9e59a723642db05f0646d6301b9873d" title="Prints out first page of MyWindow::content." alt="" coords="420,31,587,57"/>
+<area shape="rect" id="node10" href="$classMyWindow.html#a665716d06ccbc73f77f48481d14129e5" title="Executes current chosen option." alt="" coords="195,183,364,209"/>
+<area shape="rect" id="node11" href="$classMyWindow.html#af230727bc1fc6ce7db2f8af157431dd5" title="Asks User if they want to exit program." alt="" coords="221,233,337,260"/>
+<area shape="rect" id="node12" href="$classMyWindow.html#a60c80ebc1016adc5c1b07452375a7ebd" title="Prints out MyWindow::options into MyWindow::optWindow." alt="" coords="197,284,362,311"/>
+<area shape="rect" id="node9" href="$classMyWindow.html#aa79606e78ee7a0ead154009fce249764" title="Removes higlighting of window." alt="" coords="412,81,595,108"/>
+<area shape="rect" id="node5" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="646,5,814,32"/>
+<area shape="rect" id="node6" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="643,56,817,83"/>
+<area shape="rect" id="node7" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="865,56,969,83"/>
+<area shape="rect" id="node8" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="1017,56,1167,83"/>
+</map>

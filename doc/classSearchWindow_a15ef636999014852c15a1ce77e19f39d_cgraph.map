@@ -1,0 +1,7 @@
+<map id="SearchWindow::exportResultMode" name="SearchWindow::exportResultMode">
+<area shape="rect" id="node1" title="Method implementing export of search result." alt="" coords="5,5,229,32"/>
+<area shape="rect" id="node2" href="$classContent.html#a150c8c46ccae70bf2dd35776e7a5b4d4" title="Prints out error message given as." alt="" coords="277,5,407,32"/>
+<area shape="rect" id="node3" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="677,5,781,32"/>
+<area shape="rect" id="node5" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="455,31,629,57"/>
+<area shape="rect" id="node4" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="829,5,979,32"/>
+</map>

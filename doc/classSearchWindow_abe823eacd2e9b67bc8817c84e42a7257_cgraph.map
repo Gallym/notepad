@@ -1,0 +1,5 @@
+<map id="SearchWindow::searchByTag" name="SearchWindow::searchByTag">
+<area shape="rect" id="node1" title="Searches throughout all notes by tag and fills SearchWindow::resultNotes with result." alt="" coords="5,31,200,57"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#a3990b9cf81b6d10293b57598556314ac" title=" " alt="" coords="248,5,413,32"/>
+<area shape="rect" id="node3" href="$classAbstractNote.html#ab8d524caf9423d311508e531e23b0f5d" title=" " alt="" coords="254,56,407,83"/>
+</map>

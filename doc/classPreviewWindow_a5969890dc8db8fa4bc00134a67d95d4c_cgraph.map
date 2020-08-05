@@ -1,0 +1,11 @@
+<map id="PreviewWindow::setAndPrintPreviewNote" name="PreviewWindow::setAndPrintPreviewNote">
+<area shape="rect" id="node1" title="Sets given." alt="" coords="5,74,197,115"/>
+<area shape="rect" id="node2" href="$classContent.html#a8a3e484948d1c986fb419f325f188f3f" title="Clears the Content." alt="" coords="261,5,412,32"/>
+<area shape="rect" id="node3" href="$classNote.html#a9fbc751cf668ef603e0ef5d1bd146e90" title="Fills passed @content with data from Note." alt="" coords="278,56,395,83"/>
+<area shape="rect" id="node5" href="$classContent.html#a89ebb6a130b2aa41480d2faac5cbd05e" title="Prints out first page of the Content with highlighted line given as." alt="" coords="258,107,415,133"/>
+<area shape="rect" id="node9" href="$classMyWindow.html#aa79606e78ee7a0ead154009fce249764" title="Removes higlighting of window." alt="" coords="245,157,428,184"/>
+<area shape="rect" id="node4" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="503,56,624,83"/>
+<area shape="rect" id="node6" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="476,107,651,133"/>
+<area shape="rect" id="node7" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="699,107,803,133"/>
+<area shape="rect" id="node8" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="851,107,1000,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MyWindow::printContent" name="MyWindow::printContent">
+<area shape="rect" id="node1" title="Prints out first page of MyWindow::content." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="223,5,391,32"/>
+<area shape="rect" id="node3" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="220,56,395,83"/>
+<area shape="rect" id="node4" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="443,56,547,83"/>
+<area shape="rect" id="node5" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="595,56,744,83"/>
+</map>

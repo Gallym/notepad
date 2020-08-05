@@ -1,0 +1,7 @@
+<map id="MyWindow::printContent" name="MyWindow::printContent">
+<area shape="rect" id="node1" title="Prints out first page of MyWindow::content." alt="" coords="641,5,808,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#ad69e0f070c8f775199956e4695e54c8d" title="Activates window and implements main functionality of window." alt="" coords="249,5,391,32"/>
+<area shape="rect" id="node5" href="$classMyWindow.html#af38ede5677c225536668284d6a1a0636" title="Deactivates window: printes first page of MyWindow::content and sets standart color of borders." alt="" coords="439,31,593,57"/>
+<area shape="rect" id="node3" href="$classNotepad.html#ad3494ea4b99c40f5f32501cbc6fa88d7" title="Main method to start application Notepad." alt="" coords="104,5,201,32"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,56,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MyWindow::init" name="MyWindow::init">
+<area shape="rect" id="node1" title="Initialize ncurses window." alt="" coords="213,5,325,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#af688db7e36c35648ef6a9de1095616fd" title="Constructor for MyWindow." alt="" coords="5,5,165,32"/>
+</map>

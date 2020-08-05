@@ -1,0 +1,12 @@
+<map id="NotesWindow::createNote" name="NotesWindow::createNote">
+<area shape="rect" id="node1" title="Method to create Note from filepath." alt="" coords="5,56,181,83"/>
+<area shape="rect" id="node2" href="$classNotesWindow.html#a44263273ada11eaf02f586e504dadeb4" title=" " alt="" coords="539,5,700,32"/>
+<area shape="rect" id="node4" href="$classNotesWindow.html#a59833326fb181d3d213ad71dcbb209a9" title="Method to create Note from XML document." alt="" coords="229,56,459,83"/>
+<area shape="rect" id="node7" href="$classContent.html#a150c8c46ccae70bf2dd35776e7a5b4d4" title="Prints out error message given as." alt="" coords="279,157,409,184"/>
+<area shape="rect" id="node3" href="$classNote.html#a235b1c33dda1040638ff2f43c1b6aeac" title=" " alt="" coords="780,5,891,32"/>
+<area shape="rect" id="node5" href="$classNotesWindow.html#a2e9b44149679ed9e0b48b945389f4d8f" title="Method to parse multi&#45;note from XML document and create and add separe notes from it." alt="" coords="519,56,719,83"/>
+<area shape="rect" id="node6" href="$classNotesWindow.html#aa47b73d91ef817b9fba9135a41c68ecd" title="Method to parse type of Note from XML document." alt="" coords="507,107,732,133"/>
+<area shape="rect" id="node8" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="783,183,887,209"/>
+<area shape="rect" id="node10" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="532,208,707,235"/>
+<area shape="rect" id="node9" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="939,183,1088,209"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Note::getXml" name="Note::getXml">
+<area shape="rect" id="node1" title="Creates XML formated string out of the Note." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$classNote.html#ae5c8b39e3cb1e79a79215ab182385940" title="Creates XML formated string out of Note::data of the Note." alt="" coords="152,5,279,32"/>
+</map>

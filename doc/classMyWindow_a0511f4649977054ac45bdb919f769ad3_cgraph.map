@@ -1,0 +1,4 @@
+<map id="MyWindow::printThisOptions" name="MyWindow::printThisOptions">
+<area shape="rect" id="node1" title="Prints specific options of Window if needed." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09" title="Clears Options Window." alt="" coords="244,5,412,32"/>
+</map>

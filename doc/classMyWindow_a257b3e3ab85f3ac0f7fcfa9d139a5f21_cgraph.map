@@ -1,0 +1,4 @@
+<map id="MyWindow::clear" name="MyWindow::clear">
+<area shape="rect" id="node1" title="Clears Window." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="176,5,344,32"/>
+</map>

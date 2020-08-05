@@ -1,0 +1,9 @@
+<map id="MyWindow::deactivate" name="MyWindow::deactivate">
+<area shape="rect" id="node1" title="Deactivates window: printes first page of MyWindow::content and sets standart color of borders." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$classMyWindow.html#ab9e59a723642db05f0646d6301b9873d" title="Prints out first page of MyWindow::content." alt="" coords="216,31,383,57"/>
+<area shape="rect" id="node7" href="$classMyWindow.html#aa79606e78ee7a0ead154009fce249764" title="Removes higlighting of window." alt="" coords="208,81,391,108"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="442,5,610,32"/>
+<area shape="rect" id="node4" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="439,56,613,83"/>
+<area shape="rect" id="node5" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="661,56,765,83"/>
+<area shape="rect" id="node6" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="813,56,963,83"/>
+</map>

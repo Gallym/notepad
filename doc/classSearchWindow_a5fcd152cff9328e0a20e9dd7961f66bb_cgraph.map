@@ -1,0 +1,6 @@
+<map id="SearchWindow::addCategoriesToContent" name="SearchWindow::addCategoriesToContent">
+<area shape="rect" id="node1" title="Fills content with SearchWindow::categories." alt="" coords="5,23,208,65"/>
+<area shape="rect" id="node2" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="257,5,378,32"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#a257b3e3ab85f3ac0f7fcfa9d139a5f21" title="Clears Window." alt="" coords="256,56,379,83"/>
+<area shape="rect" id="node4" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="427,56,595,83"/>
+</map>

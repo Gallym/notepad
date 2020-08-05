@@ -1,0 +1,5 @@
+<map id="Content::printNextPage" name="Content::printNextPage">
+<area shape="rect" id="node1" title="Prints out next page after current of the Content with highlighted line given as." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="212,5,316,32"/>
+<area shape="rect" id="node3" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="364,5,513,32"/>
+</map>

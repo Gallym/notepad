@@ -1,0 +1,6 @@
+<map id="Content::printError" name="Content::printError">
+<area shape="rect" id="node1" title="Prints out error message given as." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node2" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="405,5,509,32"/>
+<area shape="rect" id="node4" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="183,31,357,57"/>
+<area shape="rect" id="node3" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="557,5,707,32"/>
+</map>

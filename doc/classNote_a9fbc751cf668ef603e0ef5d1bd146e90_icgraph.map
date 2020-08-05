@@ -1,0 +1,10 @@
+<map id="Note::fillContent" name="Note::fillContent">
+<area shape="rect" id="node1" title="Fills passed @content with data from Note." alt="" coords="736,56,853,83"/>
+<area shape="rect" id="node2" href="$classPreviewWindow.html#a8b4fa6cefb46de2715d84b56fe2d06e4" title="Method to preview of PreviewWindow::previewNote and list over its pages." alt="" coords="487,5,688,32"/>
+<area shape="rect" id="node4" href="$classPreviewWindow.html#ac11a5f5866d148ceaf6d0bb7927a7225" title="Overrides MyWindow::printContent." alt="" coords="490,56,685,83"/>
+<area shape="rect" id="node5" href="$classPreviewWindow.html#a5969890dc8db8fa4bc00134a67d95d4c" title="Sets given." alt="" coords="491,107,683,149"/>
+<area shape="rect" id="node3" href="$classPreviewWindow.html#a12a7a154613a5b45e4e485d0999e6624" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Preview, Help)." alt="" coords="240,5,439,32"/>
+<area shape="rect" id="node6" href="$classNotesWindow.html#ae6cd969faca68e9d08f634436796bec8" title="Method to delete note from Notepad." alt="" coords="250,64,429,91"/>
+<area shape="rect" id="node7" href="$classNotesWindow.html#aa1563db137ae02fb569df6cbc6ee1f50" title="Implementation of MyWindow::execCurrOpt Executes current chosen option (Select, Import,..." alt="" coords="5,115,192,141"/>
+<area shape="rect" id="node8" href="$classNotesWindow.html#ae556f14f9357c8d3b6703a8e749ea072" title="Method to choose note." alt="" coords="250,165,429,192"/>
+</map>

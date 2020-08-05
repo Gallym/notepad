@@ -1,0 +1,17 @@
+<map id="PreviewWindow::previewMode" name="PreviewWindow::previewMode">
+<area shape="rect" id="node1" title="Method to preview of PreviewWindow::previewNote and list over its pages." alt="" coords="5,183,207,209"/>
+<area shape="rect" id="node2" href="$classContent.html#a8a3e484948d1c986fb419f325f188f3f" title="Clears the Content." alt="" coords="275,5,425,32"/>
+<area shape="rect" id="node3" href="$classNote.html#a9fbc751cf668ef603e0ef5d1bd146e90" title="Fills passed @content with data from Note." alt="" coords="291,56,409,83"/>
+<area shape="rect" id="node5" href="$classContent.html#a150c8c46ccae70bf2dd35776e7a5b4d4" title="Prints out error message given as." alt="" coords="285,107,415,133"/>
+<area shape="rect" id="node9" href="$classContent.html#a89ebb6a130b2aa41480d2faac5cbd05e" title="Prints out first page of the Content with highlighted line given as." alt="" coords="271,157,429,184"/>
+<area shape="rect" id="node10" href="$classContent.html#ae7ddcc55db4689e9a6ae9a92dd43b966" title="Prints out next page after current of the Content with highlighted line given as." alt="" coords="505,208,664,235"/>
+<area shape="rect" id="node11" href="$classContent.html#a45e62139a42490a60a4a49ab100297d6" title="Prints out previous page before current of the Content with highlighted line given as." alt="" coords="493,259,676,285"/>
+<area shape="rect" id="node12" href="$classMyWindow.html#a0511f4649977054ac45bdb919f769ad3" title="Prints specific options of Window if needed." alt="" coords="255,309,445,336"/>
+<area shape="rect" id="node14" href="$classMyWindow.html#a424f6e631dd19dd76e923981e8aa0666" title="Updates title of window." alt="" coords="271,360,429,387"/>
+<area shape="rect" id="node4" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="524,56,645,83"/>
+<area shape="rect" id="node6" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="724,183,828,209"/>
+<area shape="rect" id="node8" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="497,157,672,184"/>
+<area shape="rect" id="node7" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="876,183,1025,209"/>
+<area shape="rect" id="node13" href="$classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09" title="Clears Options Window." alt="" coords="501,309,669,336"/>
+<area shape="rect" id="node15" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="501,360,669,387"/>
+</map>

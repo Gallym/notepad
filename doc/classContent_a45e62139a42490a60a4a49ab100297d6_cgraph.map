@@ -1,0 +1,5 @@
+<map id="Content::printPreviousPage" name="Content::printPreviousPage">
+<area shape="rect" id="node1" title="Prints out previous page before current of the Content with highlighted line given as." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="236,5,340,32"/>
+<area shape="rect" id="node3" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="388,5,537,32"/>
+</map>

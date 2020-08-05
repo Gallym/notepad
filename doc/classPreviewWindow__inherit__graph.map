@@ -1,0 +1,4 @@
+<map id="PreviewWindow" name="PreviewWindow">
+<area shape="rect" id="node1" title="Derived class from MyWindow for searching notes. This class implements and extends functionality of p..." alt="" coords="5,600,191,839"/>
+<area shape="rect" id="node2" href="$classMyWindow.html" title="Parent class for all Windows. This class describes main behavior of every Window. Main logic is imple..." alt="" coords="30,5,166,552"/>
+</map>

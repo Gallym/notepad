@@ -1,0 +1,7 @@
+<map id="NotesWindow" name="NotesWindow">
+<area shape="rect" id="node1" title="Derived class from MyWindow for searching notes. This class implements and extends functionality of p..." alt="" coords="86,1232,241,1559"/>
+<area shape="rect" id="node2" href="$classMyWindow.html" title="Parent class for all Windows. This class describes main behavior of every Window. Main logic is imple..." alt="" coords="161,351,297,883"/>
+<area shape="rect" id="node4" href="$classPreviewWindow.html" title="Derived class from MyWindow for searching notes. This class implements and extends functionality of p..." alt="" coords="5,945,191,1169"/>
+<area shape="rect" id="node3" href="$classContent.html" title="Represents content to be displayed in Window. This class allows Window print out its content properly..." alt="" coords="139,5,318,288"/>
+<area shape="rect" id="node5" href="$classNote.html" title="Parent class for all Notes. This class has main attributes and methods for every note." alt="" coords="25,512,136,721"/>
+</map>

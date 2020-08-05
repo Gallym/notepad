@@ -1,0 +1,7 @@
+<map id="AbstractNote" name="AbstractNote">
+<area shape="rect" id="node1" title="Derived class from Note for XML notes. This is an abstract class which defines main behaviour of XML ..." alt="" coords="180,263,331,501"/>
+<area shape="rect" id="node3" href="$classBasicNote.html" title="Derived class from AbstractNote. BasicNote implements and extends functionality of AbstractNote...." alt="" coords="5,549,156,685"/>
+<area shape="rect" id="node4" href="$classCheckListNote.html" title="Derived class from AbstractNote for Check list XML notes. This class implements and extends functiona..." alt="" coords="180,549,331,685"/>
+<area shape="rect" id="node5" href="$classPriceListNote.html" title="Derived class from AbstractNote for Price list XML notes This class implements and extends functional..." alt="" coords="355,549,505,685"/>
+<area shape="rect" id="node2" href="$classNote.html" title="Parent class for all Notes. This class has main attributes and methods for every note." alt="" coords="200,5,311,215"/>
+</map>

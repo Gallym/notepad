@@ -1,0 +1,6 @@
+<map id="SearchWindow::addTagsToContent" name="SearchWindow::addTagsToContent">
+<area shape="rect" id="node1" title="Fills content with SearchWindow::tags." alt="" coords="5,31,232,57"/>
+<area shape="rect" id="node2" href="$classContent.html#a81019bfe9d5cdae76fd214b5371ddcc3" title="Adds new." alt="" coords="281,5,402,32"/>
+<area shape="rect" id="node3" href="$classMyWindow.html#a257b3e3ab85f3ac0f7fcfa9d139a5f21" title="Clears Window." alt="" coords="280,56,403,83"/>
+<area shape="rect" id="node4" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="451,56,619,83"/>
+</map>

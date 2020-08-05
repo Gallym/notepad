@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,56,159"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a7c226308e0c9a3138acede284f9cd7fb" title=" " alt="" coords="110,107,195,133"/>
+<area shape="rect" id="node3" href="$classNotepad.html#ad3494ea4b99c40f5f32501cbc6fa88d7" title="Main method to start application Notepad." alt="" coords="104,157,201,184"/>
+<area shape="rect" id="node4" href="$classMyWindow.html#ad69e0f070c8f775199956e4695e54c8d" title="Activates window and implements main functionality of window." alt="" coords="249,157,391,184"/>
+<area shape="rect" id="node5" href="$classMyWindow.html#a870712a73df1aa4c2239bc2002ec8e09" title="Clears Options Window." alt="" coords="663,208,831,235"/>
+<area shape="rect" id="node6" href="$classMyWindow.html#af38ede5677c225536668284d6a1a0636" title="Deactivates window: printes first page of MyWindow::content and sets standart color of borders." alt="" coords="446,81,601,108"/>
+<area shape="rect" id="node7" href="$classMyWindow.html#ab9e59a723642db05f0646d6301b9873d" title="Prints out first page of MyWindow::content." alt="" coords="664,31,831,57"/>
+<area shape="rect" id="node13" href="$classMyWindow.html#a665716d06ccbc73f77f48481d14129e5" title="Executes current chosen option." alt="" coords="439,183,608,209"/>
+<area shape="rect" id="node14" href="$classMyWindow.html#af230727bc1fc6ce7db2f8af157431dd5" title="Asks User if they want to exit program." alt="" coords="465,233,581,260"/>
+<area shape="rect" id="node15" href="$classMyWindow.html#a60c80ebc1016adc5c1b07452375a7ebd" title="Prints out MyWindow::options into MyWindow::optWindow." alt="" coords="441,284,606,311"/>
+<area shape="rect" id="node12" href="$classMyWindow.html#aa79606e78ee7a0ead154009fce249764" title="Removes higlighting of window." alt="" coords="656,81,839,108"/>
+<area shape="rect" id="node8" href="$classMyWindow.html#ab56c6577fd95f7b49df86286a2b686b9" title="Higlights borders of window." alt="" coords="890,5,1058,32"/>
+<area shape="rect" id="node9" href="$classContent.html#ad836c00f5e80c320609b3c71a4b2efa7" title="Prints out current page of the Content with highlighted line given as." alt="" coords="887,56,1061,83"/>
+<area shape="rect" id="node10" href="$classContent.html#aeb3251e0e8895e246ad33690f8c9ec49" title="Clears window." alt="" coords="1109,56,1213,83"/>
+<area shape="rect" id="node11" href="$classContent.html#ad5dfd5896a1ee0da5de5bd767a8d9225" title="Highlightes bordes of Window." alt="" coords="1261,56,1411,83"/>
+</map>
