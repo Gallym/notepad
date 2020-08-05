@@ -1,0 +1,53 @@
+<multinote>
+<note>
+	<info>
+		<type>pricelist</type>
+		<name>My Second PriceListNote</name>
+		<category>School</category>
+		<tags>
+			<tag>PA2</tag>
+			<tag>PC</tag>
+		</tags>
+	</info>
+	<data>
+		<item>
+			<article>keyboard</article><price>500</price>
+		</item>
+		<item>
+			<article>monitor</article><price>2000</price>
+		</item>
+	</data>
+</note>
+<note>
+	<info>
+		<type>pricelist</type>
+		<name>My Third PriceListNote</name>
+		<category>School</category>
+		<tags>
+			<tag>PA2</tag>
+			<tag>Car</tag>
+		</tags>
+	</info>
+	<data>
+		<item>
+			<article>Car</article><price>150000</price>
+		</item>
+	</data>
+</note>
+<note>
+	<info>
+		<type>basic</type>
+		<name>My Second Basic Note</name>
+		<category>School</category>
+		<tags>
+			<tag>Star Wars</tag>
+		</tags>
+	</info>
+	<data>Peace is a lie, there is only passion.
+Through passion, I gain strength.
+Through strength, I gain power.
+Through power, I gain victory.
+Through victory, my chains are broken.
+The Force shall free me.</data>
+</note>
+</multinote>

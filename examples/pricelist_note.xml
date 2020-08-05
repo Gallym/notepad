@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<note>
+	<info>
+		<type>pricelist</type>
+		<name>My First PriceListNote</name>
+		<category>School</category>
+		<tags>
+			<tag>PA2</tag>
+			<tag>Food</tag>
+		</tags>
+	</info>
+	<data>
+		<item>
+			<article>chicken</article><price>69</price>
+		</item>
+		<item>
+			<article>milk</article><price>21</price>
+		</item>
+		<item>
+			<article>beer</article><price>200</price>
+		</item>
+		<item>
+			<article>beef</article><price>200</price>
+		</item>
+		<item>
+			<article>eggs</article><price>30</price>
+		</item>
+	</data>
+</note>

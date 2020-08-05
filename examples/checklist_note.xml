@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<note>
+	<info>
+		<type>checklist</type>
+		<name>My First CheckListNote</name>
+		<category>School</category>
+		<tags>
+			<tag>PA2</tag>
+			<tag>c++</tag>
+		</tags>
+	</info>
+	<data>
+		<item>
+			<check>true</check><task>Start BI-PA2 project</task>
+		</item>
+		<item>
+			<check>true</check><task>Get started with ncurses lib</task>
+		</item>
+		<item>
+			<check>true</check><task>Get started with xml lib</task>
+		</item>
+		<item>
+			<check>true</check><task>Create object out of xmlfile</task>
+		</item>
+		<item>
+			<check>true</check><task>Finish PA2 project</task>
+		</item>
+		<item>
+			<check>false</check><task>Complete PA2 course</task>
+		</item>
+	</data>
+</note>

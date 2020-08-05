@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<multinote>
+	<note>
+		<info>
+			<type>pricelist</type>
+			<name>My Second PriceListNote</name>
+			<category>School</category>
+			<tags>
+				<tag>PA2</tag>
+				<tag>PC</tag>
+			</tags>
+		</info>
+		<data>
+			<item>
+				<article>keyboard</article><price>500</price>
+			</item>
+			<item>
+				<article>monitor</article><price>2000</price>
+			</item>
+		</data>
+	</note>
+	<note>
+		<info>
+			<type>pricelist</type>
+			<name>My Third PriceListNote</name>
+			<category>School</category>
+			<tags>
+				<tag>PA2</tag>
+				<tag>Car</tag>
+			</tags>
+		</info>
+		<data>
+			<item>
+				<article>Car</article><price>150000</price>
+			</item>
+		</data>
+	</note>
+</multinote>
